@@ -1,0 +1,162 @@
+{
+  "mode": "queue",
+  "replay": "",
+  "isRealTimeMode": false,
+  "outputOverlayFiles": true,
+  "queue": [
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_1028_Marth_v_Fox_(BF).slp",
+      "gameStartAt": "05/18/19 10:28 am",
+      "gameStation": "melbournemelee",
+      "startFrame": 6646,
+      "endFrame": 8238
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_1121_Sheik_v_Falco_(PS).slp",
+      "gameStartAt": "05/18/19 11:21 am",
+      "gameStation": "melbournemelee",
+      "startFrame": 2295,
+      "endFrame": 3306
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_1148_Fox_v_Marth_(FD).slp",
+      "gameStartAt": "05/18/19 11:48 am",
+      "gameStation": "melbournemelee",
+      "startFrame": 8353,
+      "endFrame": 9199
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_1223_Falco_v_Falco_(FD).slp",
+      "gameStartAt": "05/18/19 12:23 pm",
+      "gameStation": "melbournemelee",
+      "startFrame": 607,
+      "endFrame": 1480
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_1447_Fox_v_Marth_(BF).slp",
+      "gameStartAt": "05/18/19 2:47 pm",
+      "gameStation": "melbournemelee",
+      "startFrame": 2598,
+      "endFrame": 3342
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_1455_Fox_v_Marth_(FoD).slp",
+      "gameStartAt": "05/18/19 2:55 pm",
+      "gameStation": "melbournemelee",
+      "startFrame": 5924,
+      "endFrame": 7168
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_1458_Fox_v_Marth_(PS).slp",
+      "gameStartAt": "05/18/19 2:58 pm",
+      "gameStation": "melbournemelee",
+      "startFrame": 10460,
+      "endFrame": 11583
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_1720_Marth_v_Falco_(BF).slp",
+      "gameStartAt": "05/18/19 5:20 pm",
+      "gameStation": "mm1-4",
+      "startFrame": 6114,
+      "endFrame": 6952
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_1911_Marth_v_Fox_(FD).slp",
+      "gameStartAt": "05/18/19 7:11 pm",
+      "gameStation": "mm3-1",
+      "startFrame": 723,
+      "endFrame": 1452
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_1914_Marth_v_Fox_(FoD).slp",
+      "gameStartAt": "05/18/19 7:14 pm",
+      "gameStation": "mm3-1",
+      "startFrame": 7256,
+      "endFrame": 7976
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_2002_Sheik_v_Fox_(FD).slp",
+      "gameStartAt": "05/18/19 8:02 pm",
+      "gameStation": "mm2-1",
+      "startFrame": 956,
+      "endFrame": 1896
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_2018_Marth_v_Falcon_(DL).slp",
+      "gameStartAt": "05/18/19 8:18 pm",
+      "gameStation": "mm2-4",
+      "startFrame": 6041,
+      "endFrame": 7110
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_2118_Falcon_v_ICs_(BF).slp",
+      "gameStartAt": "05/18/19 9:18 pm",
+      "gameStation": "mm2-3",
+      "startFrame": 3794,
+      "endFrame": 4618
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_2244_Falcon_v_Falcon_(BF).slp",
+      "gameStartAt": "05/18/19 10:44 pm",
+      "gameStation": "mm2-4",
+      "startFrame": 4048,
+      "endFrame": 4873
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190518_2303_Falcon_v_Marth_(YS).slp",
+      "gameStartAt": "05/18/19 11:03 pm",
+      "gameStation": "mm2-4",
+      "startFrame": 5689,
+      "endFrame": 6459
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190519_1349_Sheik_v_Fox_(DL).slp",
+      "gameStartAt": "05/19/19 1:49 pm",
+      "gameStation": "melbournemelee",
+      "startFrame": 7035,
+      "endFrame": 8016
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190519_1701_Marth_v_Fox_(YS).slp",
+      "gameStartAt": "05/19/19 5:01 pm",
+      "gameStation": "melbournemelee",
+      "startFrame": 8987,
+      "endFrame": 9694
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190519_1709_Marth_v_Fox_(FD).slp",
+      "gameStartAt": "05/19/19 5:09 pm",
+      "gameStation": "melbournemelee",
+      "startFrame": 2562,
+      "endFrame": 3458
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190519_1757_Marth_v_Fox_(PS).slp",
+      "gameStartAt": "05/19/19 5:57 pm",
+      "gameStation": "melbournemelee",
+      "startFrame": 598,
+      "endFrame": 1361
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190519_1802_Marth_v_Fox_(BF).slp",
+      "gameStartAt": "05/19/19 6:02 pm",
+      "gameStation": "melbournemelee",
+      "startFrame": 4898,
+      "endFrame": 5784
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190519_1812_Marth_v_Fox_(DL).slp",
+      "gameStartAt": "05/19/19 6:12 pm",
+      "gameStation": "melbournemelee",
+      "startFrame": 3402,
+      "endFrame": 4129
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/BAM11 Battle Arena Melbourne 11/190519_1949_Samus_v_Fox_(YS).slp",
+      "gameStartAt": "05/19/19 7:49 pm",
+      "gameStation": "mm2-4",
+      "startFrame": 757,
+      "endFrame": 1392
+    }
+  ]
+}
